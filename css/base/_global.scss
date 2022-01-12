@@ -1,0 +1,23 @@
+body {
+  font-family: $font-main;
+ 
+  font-size: $font-size;
+  font-weight: $font-weight;
+ 
+ 
+
+  a {
+    text-decoration: none;
+  }
+  ul,
+  ol {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  button {
+    border: none;
+    padding: 0;
+    background-color: transparent;
+  }
+}
